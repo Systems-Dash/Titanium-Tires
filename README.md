@@ -1,5 +1,4 @@
-#![Uploading Website Mockup.jpg…]()
- Titanium Tires Website
+# Titanium Tires Website
 
 Welcome to the **Titanium Tires** website repository. This README file provides an overview of the website's development structure, features, and technologies implemented to deliver a robust, modern, and user-friendly platform.
 
