@@ -1,9 +1,9 @@
 # Titanium Tires Website
 
 Welcome to the **Titanium Tires** website repository. This README file provides an overview of the website's development structure, features, and technologies implemented to deliver a robust, modern, and user-friendly platform.
-
+https://github.com/Systems-Dash/Titanium-Tires/blob/main/Website%20Mockup.jpg?raw=true
 ## Website Link
-
+![image alt](https://github.com/Systems-Dash/Titanium-Tires/blob/main/Website%20Mockup.jpg?raw=true)
 [Visit Titanium Tires](https://titaniumtires.com/)
 
 ---
